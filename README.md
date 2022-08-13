@@ -14,7 +14,7 @@ My vault content is private.  However the information in the notebooks and scrip
 These are vaults that I am using for prototyping:
 - 🎓 **My MPhil degree notes**
     - For my master's degree I wrote all my notes in an Obsidian.md vault.
-    - The vault has over 100k words of content spread across 500 MD files.
+    - The vault has over 100k words of content spread across 500 MD files.  I didn't strictly follow the use of atomic notes.  Each note had a concept or keyword, but the notes varied in length and were optimised for ease of revision.  The typical note could fit on an A4 page (a few hundred words of content).  I essentially used the vault as a wiki.
     - I studied 11 modules, so I assigned notes to folders for their respective modules.  I averaged about 50 notes per module.
     - The rigid structure of folders was convenient for revision.  I didn't develop any MOCs as the content was manageable for revision on a module-by-module basis.  However, one MOC per module would be great for future reference.  I am interested in auto-generating MOCs from the vault content and exploring which notes are the most important for each module.
 - 🎥 **Film noir vault**
