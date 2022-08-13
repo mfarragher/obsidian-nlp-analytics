@@ -1,0 +1,10 @@
+python-dotenv
+pandas
+numpy
+scipy
+scikit-learn
+obsidiantools
+corextopic
+matplotlib
+jupyter
+notebook
