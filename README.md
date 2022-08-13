@@ -5,7 +5,8 @@ The main focus of the NLP analytics is topic modelling.
 
 ## Proofs of concept
 These are examples of functionality for which I am exploring proofs of concept:
-- **Auto-generated Maps of Content (MOCs)** 
+- **Auto-generated Maps of Content (MOCs)**
+    - 📓 [Notebook](/notebooks/Auto-generated%20MOCs%20via%20topic%20modelling.ipynb): proof of concept for auto-generation of MOCs for my MPhil vault.
 - _To be continued_
 
 ## Vaults
