@@ -7,7 +7,8 @@ The main focus of the NLP analytics is topic modelling.
 These are examples of functionality for which I am exploring proofs of concept:
 - **Auto-generated Maps of Content (MOCs)**
     - 📓 [Notebook](/notebooks/Auto-generated%20MOCs%20via%20topic%20modelling.ipynb): proof of concept for auto-generation of MOCs for my MPhil vault.
-- _To be continued_
+- **Auto-suggested wikilinks**
+    - 📓 [Notebook](/notebooks/Auto-suggested%20wikilinks%20via%20topic%20modelling.ipynb): proof of concept for auto-suggested wikilinks for my film noir vault.
 
 ## Vaults
 My vault content is private.  However the information in the notebooks and scripts that I have written could be re-applied to your own vaults with a little reworking.
